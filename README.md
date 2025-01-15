@@ -11,6 +11,9 @@
 
 <img align="right" src="https://count.getloli.com/get/@:gebilaowang66662?theme=rule34">
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gebilaowang66662&repo=ESLyric-full-screen-imitation-IOS-configuration)](ESLyric-full-screen-imitation-IOS-configuration)
+
 <img   align="center" src="https://github-readme-stats.vercel.app/api?username=gebilaowang66662&locale=cn&line_height=33&show_icons=true&hide=&theme=synthwave&rank_icon=default"/>
 
 ![头像](image/Cache_-3d58644705d31bdc..jpg)
+
